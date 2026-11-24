@@ -1,0 +1,3 @@
+{"event":{"id":"demo-1","category":"authentication","outcome":"failure"},"user":{"name":"demo-user"},"source":{"ip":"192.0.2.10"},"message":"Synthetic authentication event"}
+{"event":{"id":"demo-2","category":"authentication","outcome":"failure"},"user":{"name":"demo-user"},"source":{"ip":"192.0.2.10"},"message":"Synthetic authentication event"}
+{"event":{"id":"demo-3","category":"authentication","outcome":"success"},"user":{"name":"demo-user"},"source":{"ip":"192.0.2.10"},"message":"Synthetic authentication event"}
